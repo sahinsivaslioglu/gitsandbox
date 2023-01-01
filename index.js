@@ -1,2 +1,2 @@
-console.log("hello log");
+console.log
 console.log("uyuyor musun?")
